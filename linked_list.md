@@ -19,16 +19,16 @@
 * [Node]
 * [Allocation]
 
-### 간략 설명
-컴퓨터과학에서 연결리스트는 순서를 함께 나타내는 노드의 집합으로 구성된 자료구조이다
-
-### 관련 링크
-* https://en.wikipedia.org/wiki/Linked_list
-* http://milvus.tistory.com/17
-
 [Data structure]:#
 [List]:#
 [Array]:#
 [Element]:#
 [Node]:#
 [Allocation]:#
+
+### 간략 설명
+컴퓨터과학에서 연결리스트는 순서를 함께 나타내는 노드의 집합으로 구성된 자료구조이다
+
+### 관련 링크
+* https://en.wikipedia.org/wiki/Linked_list
+* http://milvus.tistory.com/17
