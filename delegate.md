@@ -13,11 +13,10 @@ Cocoa, Cocoa Touch
 
 ### 관련 단어
 * [Data source]
-* [Cocoa]
-* [Cocoa Touch]
-
 [Data source]:#
+* [Cocoa]
 [Cocoa]:#
+* [Cocoa Touch]
 [Cocoa Touch]:#
 
 ### 간략 설명
@@ -42,15 +41,14 @@ C#
 
 ### 관련 단어
 * [Reference]
-* [Function]
-* [Pointer]
-* [Method]
-* [Variable]
-
 [Reference]:#
+* [Function]
 [Function]:#
+* [Pointer]
 [Pointer]:#
+* [Method]
 [Method]:#
+* [Variable]
 [Variable]:#
 
 ### 간략 설명
