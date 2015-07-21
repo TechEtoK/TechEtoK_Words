@@ -13,17 +13,16 @@
 
 ### 관련 단어
 * [Data structure]
-* [List]
-* [Array]
-* [Element]
-* [Node]
-* [Allocation]
-
 [Data structure]:#
+* [List]
 [List]:#
+* [Array]
 [Array]:#
+* [Element]
 [Element]:#
+* [Node]
 [Node]:#
+* [Allocation]
 [Allocation]:#
 
 ### 간략 설명
