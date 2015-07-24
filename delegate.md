@@ -1,7 +1,7 @@
 #Delegate
 
 ### 사용처
-Cocoa, Cocoa Touch
+Cocoa, Cocoa Touch, PULL_REQUEST_TEST
 
 ### 한글표현
 위임자, 델리게이트
