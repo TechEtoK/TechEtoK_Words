@@ -1,7 +1,7 @@
 #Delegate
 
 ### 사용처
-Cocoa, Cocoa Touch
+Cocoa, Cocoa Touch, TEST
 
 ### 한글표현
 위임자, 델리게이트
@@ -11,12 +11,14 @@ Cocoa, Cocoa Touch
 
 > A data source is almost identical to a delegate. (데이터 소스는 델리게이트와 거의 동일한 개념이다)
 
+
 ### 관련 단어
 * [Data source]
-[Data source]:#
 * [Cocoa]
-[Cocoa]:#
 * [Cocoa Touch]
+
+[Data source]:#
+[Cocoa]:#
 [Cocoa Touch]:#
 
 ### 간략 설명
@@ -39,16 +41,18 @@ C#
 
 > A delegate is a reference type variable that holds the reference to a method. (델리게이 트는 메소드의 참조를 가지는 참조 형식 변수이다)
 
+
 ### 관련 단어
 * [Reference]
-[Reference]:#
 * [Function]
-[Function]:#
 * [Pointer]
-[Pointer]:#
 * [Method]
-[Method]:#
 * [Variable]
+
+[Reference]:#
+[Function]:#
+[Pointer]:#
+[Method]:#
 [Variable]:#
 
 ### 간략 설명
