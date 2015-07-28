@@ -1,7 +1,7 @@
 #Delegate
 
 ### 사용처
-Cocoa, Cocoa Touch
+Cocoa, Cocoa Touch, asd , asdff
 
 ### 한글표현
 위임자, 델리게이트
