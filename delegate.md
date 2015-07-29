@@ -13,10 +13,11 @@ Cocoa, Cocoa Touch
 
 ### 관련 단어
 * [Data source]
-[Data source]:#
 * [Cocoa]
-[Cocoa]:#
 * [Cocoa Touch]
+
+[Data source]:#
+[Cocoa]:#
 [Cocoa Touch]:#
 
 ### 간략 설명
@@ -25,6 +26,7 @@ Cocoa, Cocoa Touch
 ### 관련 링크
 * https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Delegation.html
 * http://xiles.tistory.com/221
+* https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/DelegatesandDataSources/DelegatesandDataSources.html
 
 ---
 
@@ -41,14 +43,15 @@ C#
 
 ### 관련 단어
 * [Reference]
-[Reference]:#
 * [Function]
-[Function]:#
 * [Pointer]
-[Pointer]:#
 * [Method]
-[Method]:#
 * [Variable]
+
+[Reference]:#
+[Function]:#
+[Pointer]:#
+[Method]:#
 [Variable]:#
 
 ### 간략 설명
