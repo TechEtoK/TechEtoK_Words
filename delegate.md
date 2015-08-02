@@ -13,8 +13,11 @@ Cocoa, Cocoa Touch
 
 ### 관련 단어
 * [Data source]
+*Data source
 * [Cocoa]
+*Cocoa
 * [Cocoa Touch]
+*Cocoa Touch
 
 ### 간략 설명
 다른 객체에 도움을 주기 위해 특정 행위를 위임받은 객체를 뜻한다
@@ -38,10 +41,15 @@ C#
 
 ### 관련 단어
 * [Reference]
+*Reference
 * [Function]
+*Function
 * [Pointer]
+*Pointer
 * [Method]
+*Method
 * [Variable]
+*Variable
 
 ### 간략 설명
 델리게이트는 메소드의 참조를 가지는 참조 형식 변수이다
