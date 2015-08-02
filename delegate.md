@@ -16,17 +16,12 @@ Cocoa, Cocoa Touch
 * [Cocoa]
 * [Cocoa Touch]
 
-[Data source]:#
-[Cocoa]:#
-[Cocoa Touch]:#
-
 ### 간략 설명
 다른 객체에 도움을 주기 위해 특정 행위를 위임받은 객체를 뜻한다
 
 ### 관련 링크
 * https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/Delegation.html
 * http://xiles.tistory.com/221
-* https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/DelegatesandDataSources/DelegatesandDataSources.html
 
 ---
 
@@ -47,12 +42,6 @@ C#
 * [Pointer]
 * [Method]
 * [Variable]
-
-[Reference]:#
-[Function]:#
-[Pointer]:#
-[Method]:#
-[Variable]:#
 
 ### 간략 설명
 델리게이트는 메소드의 참조를 가지는 참조 형식 변수이다
