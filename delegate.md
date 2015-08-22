@@ -13,8 +13,8 @@ Cocoa, Cocoa Touch
 
 ### 관련 단어
 * Data source
-* Cocoa
-* Cocoa Touch
+* Cocoa Framework
+* Cocoa Touch Framework
 
 ### 간략 설명
 다른 객체에 도움을 주기 위해 특정 행위를 위임받은 객체를 뜻한다
